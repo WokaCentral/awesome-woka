@@ -31,17 +31,18 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Inno](https://play.innohub13.de/_/global/maps.innohub13.de/live/innohub.json) - Beschreibung tbd
 
 
-#### github-resources
-- [eins]() - SuperDuper
-- [zwei]() - SuperDuper
-- [drei]() - SuperDuper
+#### git repos
+- [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
+- [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
+- [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
+- [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
+- [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
 
-##### abouts (de)
-- [eins]() - SuperDuper
-- [zwei]() - SuperDuper
-- [drei]() - SuperDuper
+##### Tutorials & Documentation
+- [Basics](https://workadventu.re/map-building/) - Grundlagen (en)
+- [Tiled-Doku](https://doc.mapeditor.org/en/stable/manual/introduction/) - Komplette Doku (en)
+- [Labor How-To](https://www.binary-kitchen.de/wiki/infra:workadventure:maps) - Erklärungen (de)
 
-##### abouts (en)
-- [eins]() - SuperDuper
-- [zwei]() - SuperDuper
-- [drei]() - SuperDuper
+##### More ...
+- [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
+- [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
