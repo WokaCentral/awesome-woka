@@ -22,7 +22,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 ### Workadventure
 #### worlds
 - [Chaospott Essen](https://git.chaospott.de/Workadventure/workadventure) - Beschreibung tbd
-- [binary-kitchen.de](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackerspack aus Regensburg
+- [binary-kitchen.de](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackspace aus Regensburg
 - [Realraum](https://play.workadventu.re/_/global/realraum.github.io/workadventur3space/bahnhof_graz.json#start_rj_nord_7) - Beschreibung tbd
 - [was-aus-sachsen](https://play.workadventu.re/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json#reentry-brandenburg) - Hier noch eine riesengroße welt
 - [CineVenture](https://play.workadventu.re/_/nw9jns3ku5k/raw.githubusercontent.com/jofraesh/CineVenture/master/CineVentureMap.json) - Beschreibung tbd
