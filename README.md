@@ -29,6 +29,13 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [cccsbg](https://play.workadventu.re/_/nw9jns3ku5k/finga.github.io/rc3-cccsbg/bahnsteig.json) - [Bahnhof von Salzburg]
 - [Digitale Burg](https://lbwelt.digitale-burg.de/_/global/workadventure.digiburg.alexkern.dev/map1/map.json) - Beschreibung tbd
 - [Inno](https://play.innohub13.de/_/global/maps.innohub13.de/live/innohub.json) - Beschreibung tbd
+- WokaWesen-Welten:
+  - [reiskoernchen](https://play.workadventu.re/_/n65lbc7tt0j/reiskoernchen.github.io/tutorial-map/map.json) - Tutorial-World
+  - [dbvoho](https://play.workadventu.re/_/ln8r8u8kk3r/dbvoho.github.io/tutorial/map.json) - Tutorial-World
+  - [theduplex](https://play.workadventu.re/_/89dindlognj/theduplex.github.io/WAArt/map.json) - Tutorial-World
+  - [deecee2501](https://play.workadventu.re/_/m9yrc9bxfek/deecee2501.github.io/tutorial-map-wa/map.json) - Tutorial-World
+  - [cschneidersdb](https://play.workadventu.re/_/nw9jns3ku5k/cschneidersdb.github.io/workadventure-tutorial/map.json) - Tutorial-World
+  - [cf23-gitlab](https://play.workadventu.re/_/tn577uci4ri/virtualwawalker.gitlab.io/labmap/map.json) - Tutorial-World
 
 
 #### git repos
@@ -36,9 +43,13 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
 - [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
-- virtualWAWoka-wesen:
+- WokaWesen Tutorial-Map Repos:
   - [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
-  - [CodeFreezR]() - tbd  
+  - [dbvoho](https://github.com/dbvoho/tutorial-map) - Volker's Repo
+  - [theduplex](https://github.com/theduplex/tutorial-map) - Jascha's Repo
+  - [deecee2501](https://github.com/deecee2501/tutorial-map) - Dominik's Repo
+  - [cschneidersdb](https://github.com/deecee2501/tutorial-map) - Carl's Repo
+  - [cf23-gitlab](https://github.com/deecee2501/tutorial-map) - Det's Gitlab Repo
 
 ##### Tutorials & Documentation
 - [Basics](https://workadventu.re/map-building/) - Grundlagen (en)
