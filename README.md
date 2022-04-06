@@ -47,6 +47,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Basics](https://workadventu.re/map-building/) - Grundlagen (en)
 - [Tiled-Doku](https://doc.mapeditor.org/en/stable/manual/introduction/) - Komplette Doku (en)
 - [Labor How-To](https://www.binary-kitchen.de/wiki/infra:workadventure:maps) - Erklärungen (de)
+- [adesso](https://www.adesso.de/en/news/blog/create-your-own-world-with-workadventure-how-we-got-on-2.jsp) - Create your own world (en)
 
 ##### More ...
 - [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
