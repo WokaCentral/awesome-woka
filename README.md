@@ -5,14 +5,6 @@ An independent awesome collection about virtual 2D/3D collabspaces &amp; multive
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
 
 
-## Table of Content
-- [Table of Content](#table-of-content)
-  - [Solutions](#solutions)
-  - [WorkAdventure](#workadventure)
-- [Content](#content)
-
-## Content
-
 ### Solutions
 - [Workadventure](https://workadventu.re/) - Homepage
 - [Second Life](https://secondlife.com/) - Homepage
