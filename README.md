@@ -1,6 +1,6 @@
 # awesome-woka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An independent awesome collection about virtual 2D/3D collabspaces &amp; multiverses like workadventure, campfire, Second Life, Workland &amp; many more.
+An independent awesome collection about virtual 2D/3D collabspaces &amp; multiverses like workadventure, campfire, Second Life &amp; many more.
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
 
@@ -14,14 +14,13 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 ## Content
 
 ### Solutions
-- [Workadventure]() - Homepage
-- [Second Life]() - Homepage
-- [Campfire]() - Homepage
-- [Workland]() - Homepage
+- [Workadventure](https://workadventu.re/) - Homepage
+- [Second Life](https://secondlife.com/) - Homepage
+- [Campfire](https://campfire.to/) - Homepage
     
 ### Workadventure
 #### worlds
-- [Chaospott Essen](https://git.chaospott.de/Workadventure/workadventure) - Beschreibung tbd
+- [Chaospott](https://git.chaospott.de/Workadventure/workadventure) - Hackspace aus Essen
 - [binary-kitchen.de](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackspace aus Regensburg
 - [Realraum](https://play.workadventu.re/_/global/realraum.github.io/workadventur3space/bahnhof_graz.json#start_rj_nord_7) - Beschreibung tbd
 - [was-aus-sachsen](https://play.workadventu.re/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json#reentry-brandenburg) - Hier noch eine riesengroße welt
