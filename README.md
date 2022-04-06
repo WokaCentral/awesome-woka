@@ -9,6 +9,12 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Workadventure](https://workadventu.re/) - Homepage
 - [Second Life](https://secondlife.com/) - Homepage
 - [Campfire](https://campfire.to/) - Homepage
+- [sococo](https://www.sococo.com/) - Homepage
+- [remo](https://remo.co/) - Homepage
+- [My Digital Office](https://www.mydigitaloffice.io/) - Homepage
+
+- Article:
+    - [Ambient](https://ambient.digital/wissen/blog/virtuelles-buero-corona-zeiten/) - Virtuelle Bürolösungen im Vergleich (de)
     
 ### Workadventure
 #### worlds
