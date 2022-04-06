@@ -21,9 +21,15 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
     
 ### Workadventure
 #### worlds
-- [eins]() - SuperDuper
-- [zwei]() - SuperDuper
-- [drei]() - SuperDuper
+- [Chaospott Essen](https://git.chaospott.de/Workadventure/workadventure) - Beschreibung tbd
+- [binary-kitchen.de](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackerspack aus Regensburg
+- [Realraum](https://play.workadventu.re/_/global/realraum.github.io/workadventur3space/bahnhof_graz.json#start_rj_nord_7) - Beschreibung tbd
+- [was-aus-sachsen](https://play.workadventu.re/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json#reentry-brandenburg) - Hier noch eine riesengroße welt
+- [CineVenture](https://play.workadventu.re/_/nw9jns3ku5k/raw.githubusercontent.com/jofraesh/CineVenture/master/CineVentureMap.json) - Beschreibung tbd
+- [cccsbg](https://play.workadventu.re/_/nw9jns3ku5k/finga.github.io/rc3-cccsbg/bahnsteig.json) - [Bahnhof von Salzburg]
+- [Digitale Burg](https://lbwelt.digitale-burg.de/_/global/workadventure.digiburg.alexkern.dev/map1/map.json) - Beschreibung tbd
+- [Inno](https://play.innohub13.de/_/global/maps.innohub13.de/live/innohub.json) - Beschreibung tbd
+
 
 #### github-resources
 - [eins]() - SuperDuper
