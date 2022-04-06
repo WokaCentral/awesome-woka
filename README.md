@@ -45,11 +45,12 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
 - WokaWesen Tutorial-Map Repos:
   - [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
-  - [dbvoho](https://github.com/dbvoho/tutorial-map) - Volker's Repo
-  - [theduplex](https://github.com/theduplex/tutorial-map) - Jascha's Repo
-  - [deecee2501](https://github.com/deecee2501/tutorial-map) - Dominik's Repo
-  - [cschneidersdb](https://github.com/deecee2501/tutorial-map) - Carl's Repo
-  - [cf23-gitlab](https://github.com/deecee2501/tutorial-map) - Det's Gitlab Repo
+  - [dbvoho](https://github.com/dbVoHo/tutorial) - Volker's Repo
+  - [theduplex](https://github.com/TheDuplex/WAArt) - Jascha's Repo
+  - [deecee2501](https://github.com/DeeCee2501/tutorial-map-wa) - Dominik's Repo
+  - [cschneidersdb](https://github.com/cschneidersdb/workadventure-tutorial) - Carl's Repo
+  - [cf23-gitlab](https://gitlab.com/virtualwawalker/labmap) - Det's Gitlab Repo
+
 
 ##### Tutorials & Documentation
 - [Basics](https://workadventu.re/map-building/) - Grundlagen (en)
