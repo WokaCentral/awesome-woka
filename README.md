@@ -1,4 +1,5 @@
-# awesome-woka
+# awesome-woka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 An independent awesome collection about virtual 2D/3D collabspaces &amp; multiverses like workadventure, campfire, Second Life, Workland &amp; many more.
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
@@ -13,10 +14,10 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 ## Content
 
 ### Solutions
-    - [Workadventure]() - Homepage
-    - [Second Life]() - Homepage
-    - [Campfire]() - Homepage
-    - [Workland]() - Homepage
+- [Workadventure]() - Homepage
+- [Second Life]() - Homepage
+- [Campfire]() - Homepage
+- [Workland]() - Homepage
     
 ### Workadventure
 #### worlds
