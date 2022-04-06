@@ -33,10 +33,12 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 #### git repos
 - [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
-- [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
 - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
 - [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
+- virtualWAWoka-wesen:
+  - [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
+  - [CodeFreezR]() - tbd  
 
 ##### Tutorials & Documentation
 - [Basics](https://workadventu.re/map-building/) - Grundlagen (en)
