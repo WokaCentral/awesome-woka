@@ -25,13 +25,13 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 #### Worlds @Workadvanture
 - Virtual Offices
-  - [Great place to work]() - Official WA Preset
-  - [Startup]() - Official WA Preset
-  - [Huge Open space]() - Official WA Preset
-  - [Underwater office]() - Official WA Preset
-  - [Nature office]() - Official WA Preset
-  - [Space statuin office]() - Official WA Preset
-  - [Open Spaces]() - Official WA Preset
+  - [Great place to work](https://play.workadventu.re/*/1649743192/workadventure.github.io/great-place-to-work/map.json) - Official WA Preset
+  - [Startup](https://play.workadventu.re/*/1649743192/workadventure.github.io/startup/map.json) - Official WA Preset
+  - [Huge Open space](https://play.workadventu.re/*/1649743192/workadventure.github.io/huge-open-space/map.json) - Official WA Preset
+  - [Underwater office](https://play.workadventu.re/*/1649743192/workadventure.github.io/underwater-office/map.json) - Official WA Preset
+  - [Nature office](https://play.workadventu.re/*/1649743192/workadventure.github.io/nature-office/map.json) - Official WA Preset
+  - [Space station office](https://play.workadventu.re/*/1649743192/workadventure.github.io/space-station-office/map.json) - Official WA Preset
+  - [Open Spaces](https://play.workadventu.re/*/1649743192/workadventure.github.io/open-spaces/map.json) - Official WA Preset
   - [Agency](https://play.workadventu.re/*/1649743192/workadventure.github.io/agency/map.json) - Official WA Preset
   - [Workspace](https://play.workadventu.re/*/1649743192/workadventure.github.io/workspace/map.json) - Official WA Preset
 - Event
