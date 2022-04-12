@@ -35,9 +35,15 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
   - [Agency](https://play.workadventu.re/*/1649743192/workadventure.github.io/agency/map.json) - Official WA Preset
   - [Workspace](https://play.workadventu.re/*/1649743192/workadventure.github.io/workspace/map.json) - Official WA Preset
 - Event
+    - [Workshop](https://play.workadventu.re/*/1649743192/workadventure.github.io/workshop/map.json) - Official WA Preset
+    - [Webinar](https://play.workadventu.re/*/1649743192/workadventure.github.io/webinar/map.json) - Official WA Preset
+    - [Team Building](https://play.workadventu.re/*/1649743192/workadventure.github.io/team-building/map.json) - Official WA Preset
+    - [Hackathon](https://play.workadventu.re/*/1649743192/workadventure.github.io/hackathon/map.json) - Official WA Preset
 - Chill
+    - [Island](https://play.workadventu.re/*/1649743192/workadventure.github.io/island/map.json) - Official WA Preset
+    - [Merry Christmas](https://play.workadventu.re/*/1649743192/workadventure.github.io/merry-christmas/map.json) - Official WA Preset
 - E-learning
-
+    - [University](https://play.workadventu.re/*/1649743192/workadventure.github.io/university/map.json) - Official WA Preset
 #### git repos
 - [tcm-official](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game 
 - [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure) - How to Setup WA with Ansible on Debian
