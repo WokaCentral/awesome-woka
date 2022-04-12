@@ -23,6 +23,8 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
   - [cschneidersdb](https://play.workadventu.re/_/nw9jns3ku5k/cschneidersdb.github.io/workadventure-tutorial/map.json) - Tutorial-World
   - [cf23-gitlab](https://play.workadventu.re/_/tn577uci4ri/virtualwawalker.gitlab.io/labmap/map.json) - Tutorial-World
 
+#### Worlds @Workadvanture
+- 
 
 #### git repos
 - [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure) - How to Setup WA with Ansible on Debian
@@ -45,8 +47,12 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Labor How-To](https://www.binary-kitchen.de/wiki/infra:workadventure:maps) - Erklärungen (de)
 - [adesso](https://www.adesso.de/en/news/blog/create-your-own-world-with-workadventure-how-we-got-on-2.jsp) - Create your own world (en)
 - [WA mit Ansible @r2r](https://media.ccc.de/v/divoc-reboot-to-respawn-2021-39-workadventure-selbst-betreiben-ein-serviervorschlag) - Devnope zeigt ein WA-Server Setup mit Ansible (de)
+- [rc3.world Howto - de](https://howto.rc3.world/2021/maps.html) - howto rc3 world maps (de)
+- [rc3.world Howto - de](https://howto.rc3.world/2021/maps.en.html) - howto rc3 world maps (en)
+
 
 ##### More rc3 WA Stuff ...
+- [Bitwäscherei - rc3.world Tour](https://media.ccc.de/v/rc3-channels-2020-230-bitwscherei-rc3-world-tour) (en)
 - [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
 - [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
 
