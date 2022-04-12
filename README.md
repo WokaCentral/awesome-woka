@@ -17,7 +17,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
     - [Ambient](https://ambient.digital/wissen/blog/virtuelles-buero-corona-zeiten/) - Virtuelle Bürolösungen im Vergleich (de)
     
 ### Workadventure
-#### worlds
+#### public worlds
 - [Chaospott](https://git.chaospott.de/Workadventure/workadventure) - Hackspace aus Essen
 - [binary-kitchen](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackspace aus Regensburg
 - [Realraum](https://play.workadventu.re/_/global/realraum.github.io/workadventur3space/bahnhof_graz.json#start_rj_nord_7) - Beschreibung tbd
@@ -36,6 +36,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 
 #### git repos
+- [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure)
 - [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
 - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
