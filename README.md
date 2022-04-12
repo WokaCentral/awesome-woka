@@ -4,17 +4,6 @@ An independent awesome collection about virtual 2D/3D collabspaces &amp; multive
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
 
-
-### Solutions
-- [Workadventure](https://workadventu.re/) - Homepage
-- [Second Life](https://secondlife.com/) - Homepage
-- [Campfire](https://campfire.to/) - Homepage
-- [sococo](https://www.sococo.com/) - Homepage
-- [remo](https://remo.co/) - Homepage
-- [My Digital Office](https://www.mydigitaloffice.io/) - Homepage
-
-- Article:
-    - [Ambient](https://ambient.digital/wissen/blog/virtuelles-buero-corona-zeiten/) - Virtuelle Bürolösungen im Vergleich (de)
     
 ### Workadventure
 #### public worlds
@@ -36,7 +25,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 
 #### git repos
-- [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure)
+- [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure) - How to Setup WA with Ansible on Debian
 - [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
 - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
@@ -56,6 +45,18 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Labor How-To](https://www.binary-kitchen.de/wiki/infra:workadventure:maps) - Erklärungen (de)
 - [adesso](https://www.adesso.de/en/news/blog/create-your-own-world-with-workadventure-how-we-got-on-2.jsp) - Create your own world (en)
 
-##### More ...
+##### More rc3 WA Stuff ...
 - [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
 - [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
+
+## More virtual Collab Solutions
+### Homepages
+- [Workadventure](https://workadventu.re/) - Homepage
+- [Second Life](https://secondlife.com/) - Homepage
+- [Campfire](https://campfire.to/) - Homepage
+- [sococo](https://www.sococo.com/) - Homepage
+- [remo](https://remo.co/) - Homepage
+- [My Digital Office](https://www.mydigitaloffice.io/) - Homepage
+
+### Article:
+- [Ambient](https://ambient.digital/wissen/blog/virtuelles-buero-corona-zeiten/) - Virtuelle Bürolösungen im Vergleich (de)
