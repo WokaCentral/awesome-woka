@@ -27,6 +27,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - 
 
 #### git repos
+- [tcm-official](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game 
 - [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure) - How to Setup WA with Ansible on Debian
 - [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
 - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
@@ -48,7 +49,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [adesso](https://www.adesso.de/en/news/blog/create-your-own-world-with-workadventure-how-we-got-on-2.jsp) - Create your own world (en)
 - [WA mit Ansible @r2r](https://media.ccc.de/v/divoc-reboot-to-respawn-2021-39-workadventure-selbst-betreiben-ein-serviervorschlag) - Devnope zeigt ein WA-Server Setup mit Ansible (de)
 - [rc3.world Howto - de](https://howto.rc3.world/2021/maps.html) - howto rc3 world maps (de)
-- [rc3.world Howto - de](https://howto.rc3.world/2021/maps.en.html) - howto rc3 world maps (en)
+- [rc3.world Howto - en](https://howto.rc3.world/2021/maps.en.html) - howto rc3 world maps (en)
 
 
 ##### More rc3 WA Stuff ...
@@ -57,8 +58,8 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
 
 ## More virtual Collab Solutions
-### Homepages
 - [Workadventure](https://workadventu.re/) - Homepage
+- [WA Preset Maps](https://workadventu.re/getting-started) - Getting Started
 - [Second Life](https://secondlife.com/) - Homepage
 - [Campfire](https://campfire.to/) - Homepage
 - [sococo](https://www.sococo.com/) - Homepage
