@@ -24,7 +24,19 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
   - [cf23-gitlab](https://play.workadventu.re/_/tn577uci4ri/virtualwawalker.gitlab.io/labmap/map.json) - Tutorial-World
 
 #### Worlds @Workadvanture
-- 
+- Virtual Offices
+  - [Great place to work]() - Official WA Preset
+  - [Startup]() - Official WA Preset
+  - [Huge Open space]() - Official WA Preset
+  - [Underwater office]() - Official WA Preset
+  - [Nature office]() - Official WA Preset
+  - [Space statuin office]() - Official WA Preset
+  - [Open Spaces]() - Official WA Preset
+  - [Agency](https://play.workadventu.re/*/1649743192/workadventure.github.io/agency/map.json) - Official WA Preset
+  - [Workspace](https://play.workadventu.re/*/1649743192/workadventure.github.io/workspace/map.json) - Official WA Preset
+- Event
+- Chill
+- E-learning
 
 #### git repos
 - [tcm-official](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game 
