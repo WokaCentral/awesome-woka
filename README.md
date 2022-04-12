@@ -44,6 +44,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Tiled-Doku](https://doc.mapeditor.org/en/stable/manual/introduction/) - Komplette Doku (en)
 - [Labor How-To](https://www.binary-kitchen.de/wiki/infra:workadventure:maps) - Erklärungen (de)
 - [adesso](https://www.adesso.de/en/news/blog/create-your-own-world-with-workadventure-how-we-got-on-2.jsp) - Create your own world (en)
+- [WA mit Ansible @r2r](https://media.ccc.de/v/divoc-reboot-to-respawn-2021-39-workadventure-selbst-betreiben-ein-serviervorschlag) - Devnope zeigt ein WA-Server Setup mit Ansible (de)
 
 ##### More rc3 WA Stuff ...
 - [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
