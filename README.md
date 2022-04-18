@@ -52,6 +52,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
 - [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
 - [rc3 WA Linter](https://git.cccv.de/hub/walint) - Haskell Linter anläßlich der rc3
+- [chaos-world](https://github.com/c0c0bird/chaos-world) - Vernetzt befreundete Welten!
 - WokaWesen Tutorial-Map Repos:
   - [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
   - [dbvoho](https://github.com/dbVoHo/tutorial) - Volker's Repo
