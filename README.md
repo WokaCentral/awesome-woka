@@ -2,7 +2,7 @@
 
 An independent awesome collection about virtual 2D/3D collabspaces &amp; multiverses like workadventure, campfire, Second Life &amp; many more.
 
-You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
+You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.
 
     
 ### Workadventure
