@@ -7,6 +7,8 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
     
 ### Workadventure
 #### public worlds
+- [divocbb3](https://party.tabascoeye.de/_/global/raw.githubusercontent.com/c0c0bird/bridging-bubbles/main/main_open.json) - Fanbase World for divocbb3
+- [cyberyoga](https://play.kraut.world/_/global/moorhexa.github.io/club.cyberyoga.org/maps/club/map.json) - A lot of toilets^^
 - [Chaospott](https://git.chaospott.de/Workadventure/workadventure) - Hackspace aus Essen
 - [binary-kitchen](https://play.wa.binary-kitchen.de/_/global/das-labor.github.io/workadv_das-labor/main.json) - Hackspace aus Regensburg
 - [Realraum](https://play.workadventu.re/_/global/realraum.github.io/workadventur3space/bahnhof_graz.json#start_rj_nord_7) - Beschreibung tbd
@@ -15,6 +17,10 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [cccsbg](https://play.workadventu.re/_/nw9jns3ku5k/finga.github.io/rc3-cccsbg/bahnsteig.json) - [Bahnhof von Salzburg]
 - [Digitale Burg](https://lbwelt.digitale-burg.de/_/global/workadventure.digiburg.alexkern.dev/map1/map.json) - Beschreibung tbd
 - [Inno](https://play.innohub13.de/_/global/maps.innohub13.de/live/innohub.json) - Beschreibung tbd
+- Bundesländer:
+  - [Niedersachsen](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/niedersachsen/niedersachsen.json) - Can you find Hamburg?
+  - [Sachsen-Anhalt](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsenanhalt/sachsenanhalt.json) - Where is Magdeburg?
+  - [Sachsen](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json) - I believer there is Dresden.
 - WokaWesen-Welten:
   - [reiskoernchen](https://play.workadventu.re/_/n65lbc7tt0j/reiskoernchen.github.io/tutorial-map/map.json) - Tutorial-World
   - [dbvoho](https://play.workadventu.re/_/ln8r8u8kk3r/dbvoho.github.io/tutorial/map.json) - Tutorial-World
@@ -71,6 +77,14 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [WA mit Ansible @r2r](https://media.ccc.de/v/divoc-reboot-to-respawn-2021-39-workadventure-selbst-betreiben-ein-serviervorschlag) - Devnope zeigt ein WA-Server Setup mit Ansible (de)
 - [rc3.world Howto - de](https://howto.rc3.world/2021/maps.html) - howto rc3 world maps (de)
 - [rc3.world Howto - en](https://howto.rc3.world/2021/maps.en.html) - howto rc3 world maps (en)
+
+##### WA-Server Instances
+- [Official](https://play.workadventu.re) - WA Server
+- [Binary-Kitchen](https://play.wa.binary-kitchen.de) - WA Server
+- [Digitale-Burg](https://lbwelt.digitale-burg.de) - WA Server
+- [InnoHub13](ttps://play.innohub13.de) - WA Server
+- [Tabascoeye](https://party.tabascoeye.de) - WA Server
+- [Kraut.World](https://play.kraut.world) - WA Server
 
 
 ##### Stuff around Woka-Worlds
