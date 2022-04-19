@@ -82,7 +82,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Official](https://play.workadventu.re) - WA Server
 - [Binary-Kitchen](https://play.wa.binary-kitchen.de) - WA Server
 - [Digitale-Burg](https://lbwelt.digitale-burg.de) - WA Server
-- [InnoHub13](ttps://play.innohub13.de) - WA Server
+- [InnoHub13](https://play.innohub13.de) - WA Server
 - [Tabascoeye](https://party.tabascoeye.de) - WA Server
 - [Kraut.World](https://play.kraut.world) - WA Server
 
