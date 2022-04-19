@@ -91,6 +91,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [FediVenture](https://fediventure.net/) - Flux Spec about federating Worlds
 - [Weltenkalender](https://di.c3voc.de/user:weltenkalender) - Put your virtual Parties, Streams, Meetings in this simple Calendar
 - [Spacelist](https://wak-lab.org/krautworld_space_user_counter/spacelist.php) - Ask your Map how many Wokas are on
+- [Kraut-Metrics](https://pusher.kraut.world/metrics.json) - Example for a Statistical Endpoint
 
 ##### More rc3 WA Stuff ...
 - [Bitwäscherei - rc3.world Tour](https://media.ccc.de/v/rc3-channels-2020-230-bitwscherei-rc3-world-tour) (en)
