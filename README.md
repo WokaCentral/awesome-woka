@@ -47,12 +47,13 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 #### git repos
 - [tcm-official](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game 
 - [devnope/ansible-wa](https://github.com/devnope/ansible-workadventure) - How to Setup WA with Ansible on Debian
-- [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
-- [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
 - [rc3 world-tiles](https://git.cccv.de/rc3/world-tiles) - Große Sammlung von rc3 Tilesets
 - [Maschinenraum Workadventure](https://git.bau-ha.us/maschinenraum/mr-workadventure) - Technik dahinter
 - [rc3 WA Linter](https://git.cccv.de/hub/walint) - Haskell Linter anläßlich der rc3
-- [chaos-world](https://github.com/c0c0bird/chaos-world) - Vernetzt befreundete Welten!
+- World-Repos
+  - [cccsbg](https://github.com/finga/rc3-cccsbg) - Repo Stuff vom Zug &amp; Bahnhof
+  - [Das Labor](https://github.com/das-labor/workadv_das-labor) - Beschreibung tbd
+  - [chaos-world](https://github.com/c0c0bird/chaos-world) - Vernetzt befreundete Welten!
 - WokaWesen Tutorial-Map Repos:
   - [reiskoernchen](https://github.com/Reiskoernchen/tutorial-map) - Lam-Ha's Repo
   - [dbvoho](https://github.com/dbVoHo/tutorial) - Volker's Repo
@@ -72,10 +73,17 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [rc3.world Howto - en](https://howto.rc3.world/2021/maps.en.html) - howto rc3 world maps (en)
 
 
+##### Stuff around Woka-Worlds
+- [FediVenture](https://fediventure.net/) - Flux Spec about federating Worlds
+- [Weltenkalender](https://di.c3voc.de/user:weltenkalender) - Put your virtual Parties, Streams, Meetings in this simple Calendar
+- [Spacelist](https://wak-lab.org/krautworld_space_user_counter/spacelist.php) - Ask your Map how many Wokas are on
+
 ##### More rc3 WA Stuff ...
 - [Bitwäscherei - rc3.world Tour](https://media.ccc.de/v/rc3-channels-2020-230-bitwscherei-rc3-world-tour) (en)
 - [Reisebericht](https://slides.com/d/MOwiPZw/live) - Reisebericht vom rc3.rev2 (de)
 - [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
+
+
 
 ## More virtual Collab Solutions
 - [Workadventure](https://workadventu.re/) - Homepage
