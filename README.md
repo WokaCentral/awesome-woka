@@ -48,7 +48,7 @@ Table of Contents
 #### Bundesländer:
   - [Niedersachsen](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/niedersachsen/niedersachsen.json) - Can you find Hamburg, Bremen or Hannover?
   - [Sachsen-Anhalt](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsenanhalt/sachsenanhalt.json) - Where is Magdeburg?
-  - [Sachsen](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json) - I believer there is Dresden.
+  - [Sachsen](https://play.kraut.world/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/sachsen/sachsen.json) - I believe there is Dresden.
 
 #### WokaWesen-Welten from the Lab:
   - [reiskoernchen](https://play.workadventu.re/_/n65lbc7tt0j/reiskoernchen.github.io/tutorial-map/map.json) - Tutorial-World
