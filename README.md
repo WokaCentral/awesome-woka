@@ -4,7 +4,9 @@ An independent awesome collection about virtual 2D/3D collabspaces &amp; multive
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.
 
-   
+
+<img src="static/wokalien.png" width="200"/>
+
 
 Table of Contents
 =================
