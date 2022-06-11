@@ -47,7 +47,7 @@ Table of Contents
 - [Immersive Web HP](https://immersive-web.github.io/) - Working Group Homepage
 - [Immersive Web Github](https://github.com/immersive-web) - Working Group Github Organisation
 - [WebXR Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md) - Starter Pad
-- [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models ont the web with WebXR Browser Check
+- [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models on the web with WebXR Browser Check
 #### OpenXR
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
 - [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage
