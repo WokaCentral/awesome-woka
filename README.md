@@ -12,7 +12,13 @@ Table of Contents
 =================
 
 
-
+ * [Extended Realtiy (XR) incl\. AR &amp; VR](#extended-realtiy-xr-incl-ar--vr)   
+    * [Standards, Defintions &amp; Collections](#standards-defintions--collections)
+      * [WebXR](#webxr)
+      * [OpenXR](#openxr)
+      * [More](#more)
+    * [Solutions](#solutions)
+      * [Everything Exhibition](#everything-exhibition)
 * [Workadventure specific](#workadventure-specific)
   * [public worlds](#public-worlds)
     * [Bundesländer:](#bundesl%C3%A4nder)
