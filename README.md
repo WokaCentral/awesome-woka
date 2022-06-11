@@ -178,11 +178,9 @@ Table of Contents
 - [BigBackup](https://github.com/rC3XBill/rC3World) - Backup aller rc3 Maps (en)
 
 
-
 ## More virtual Collab Solutions
 - [Workadventure](https://workadventu.re/) - Homepage
 - [WA Preset Maps](https://workadventu.re/getting-started) - Getting Started
-- [Second Life](https://secondlife.com/) - Homepage
 - [Campfire](https://campfire.to/) - Homepage
 - [sococo](https://www.sococo.com/) - Homepage
 - [remo](https://remo.co/) - Homepage
