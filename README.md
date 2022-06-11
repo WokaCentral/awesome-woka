@@ -41,22 +41,30 @@ Table of Contents
 - [Immersive Web HP](https://immersive-web.github.io/) - Working Group Homepage
 - [Immersive Web Github](https://github.com/immersive-web) - Working Group Github Organisation
 - [WebXR Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md) - Starter Pad
+- [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models ont the web with WebXR Browser Check
 #### OpenXR
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
 - [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage
 - [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project
 #### More
+- [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web
 - [OpenVR by Valve](https://en.wikipedia.org/wiki/OpenVR) - API for SteamVR & other Devices (Wikipedia)
 - [Extended Reality](https://en.wikipedia.org/wiki/Extended_reality) - General Definition (Wikipedia)
 - [Aweswome XR Broadcast](https://github.com/florisporro/awesome-xr-broadcast) - Collection of XR Broadcasting  
 
 ### Solutions
-- Sansar
-- VR Chat
-- [XREvent Generator](https://xrchisense.de/wp/xrevent/) - XR Application by XRChisense
-- [Everything Exhbition App](https://blinry.github.io/everything-exhibition/#https://en.wikipedia.org/wiki/List%20of%20free-software%20events) - Lowpoly 3D WebVR Generator out of, but not only Wikipedia
-- [Everything Exhbition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
-- [Everything Exhbition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
+- [Sansar](https://www.sansar.com/) - Sansar Homepage
+- [VR Chat](https://hello.vrchat.com/) - VR Chat Homepage
+- [Second Life](https://secondlife.com/) - Official Site
+- [Active Worlds](https://www.activeworlds.com/) - Active Worlds, Home of the 3D Internet
+- [Vircadia](https://vircadia.com/) - Vircadia Homepage
+- [OasisVR on Steam](https://store.steampowered.com/app/1163130/Oasis_VR/?l=german) - Oasis MangaVR
+- [XREvent Generator](https://xrchisense.de/wp/xrevent/) - XR Event Application by XRChisense
+
+#### Everything Exhibition
+- [Everything Exhibition App](https://blinry.github.io/everything-exhibition/#https://en.wikipedia.org/wiki/List%20of%20free-software%20events) - Lowpoly 3D WebVR Generator out of, but not only Wikipedia
+- [Everything Exhibition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
+- [Everything Exhibition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
 
 ## Workadventure specific
 
