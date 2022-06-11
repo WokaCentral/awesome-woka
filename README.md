@@ -16,7 +16,7 @@ Table of Contents
     * [Standards, Defintions &amp; Collections](#standards-defintions--collections)
       * [WebXR](#webxr)
       * [OpenXR](#openxr)
-      * [More](#more) .
+      * [More](#more)
     * [Community](#community)
       * [FOSS](#foss)
       * [Business\-Hubs](#business-hubs)
