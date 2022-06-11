@@ -1,6 +1,6 @@
 # awesome-woka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An independent awesome collection about virtual 2D/3D collabspaces &amp; multiverses like workadventure, campfire, Second Life &amp; many more.
+An independent, curated awesome collection about virtual 2D/3D mixed-reality collabspaces &amp; multiverses. AR, VR & XR.
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.
 
@@ -10,6 +10,8 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 
 Table of Contents
 =================
+
+
 
 * [Workadventure specific](#workadventure-specific)
   * [public worlds](#public-worlds)
@@ -30,6 +32,31 @@ Table of Contents
 * [More virtual Collab Solutions](#more-virtual-collab-solutions)
   * [Article:](#article)
 
+
+## Extended Realtiy (XR) incl. AR & VR
+
+### Standards, Defintions & Collections
+#### WebXR
+- [WebXR](https://en.wikipedia.org/wiki/WebXR) - WebAPI for AR/VR Devices (Wikipedia)
+- [Immersive Web HP](https://immersive-web.github.io/) - Working Group Homepage
+- [Immersive Web Github](https://github.com/immersive-web) - Working Group Github Organisation
+- [WebXR Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md) - Starter Pad
+#### OpenXR
+- [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
+- [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage
+- [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project
+#### More
+- [OpenVR by Valve](https://en.wikipedia.org/wiki/OpenVR) - API for SteamVR & other Devices (Wikipedia)
+- [Extended Reality](https://en.wikipedia.org/wiki/Extended_reality) - General Definition (Wikipedia)
+- [Aweswome XR Broadcast](https://github.com/florisporro/awesome-xr-broadcast) - Collection of XR Broadcasting  
+
+### Solutions
+- Sansar
+- VR Chat
+- [XREvent Generator](https://xrchisense.de/wp/xrevent/) - XR Application by XRChisense
+- [Everything Exhbition App](https://blinry.github.io/everything-exhibition/#https://en.wikipedia.org/wiki/List%20of%20free-software%20events) - Lowpoly 3D WebVR Generator out of, but not only Wikipedia
+- [Everything Exhbition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
+- [Everything Exhbition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
 
 ## Workadventure specific
 
