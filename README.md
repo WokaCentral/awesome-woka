@@ -16,8 +16,12 @@ Table of Contents
     * [Standards, Defintions &amp; Collections](#standards-defintions--collections)
       * [WebXR](#webxr)
       * [OpenXR](#openxr)
-      * [More](#more)
-    * [Solutions](#solutions)
+      * [More](#more) .
+    * [Community](#community)
+      * [FOSS](#foss)
+      * [Business\-Hubs](#business-hubs)
+      * [Companies](#companies)
+    * [Multi\-User Solutions](#multi-user-solutions)
       * [Everything Exhibition](#everything-exhibition)
 * [Workadventure specific](#workadventure-specific)
   * [public worlds](#public-worlds)
@@ -58,7 +62,22 @@ Table of Contents
 - [Extended Reality](https://en.wikipedia.org/wiki/Extended_reality) - General Definition (Wikipedia)
 - [Aweswome XR Broadcast](https://github.com/florisporro/awesome-xr-broadcast) - Collection of XR Broadcasting  
 
-### Solutions
+### Community
+#### FOSS
+- [khronos.org](https://www.khronos.org/) - Royalty-free open standards
+- [The Khronos Group](https://github.com/KhronosGroup) - Github Organisation
+#### Business-Hubs
+- [xrtoday](https://www.xrtoday.com/) - Newsportal
+- [XR Awards 2022](https://awards.xrtoday.com/2022-winners/) - Awards in different categories
+#### Companies
+- [elarasystems](https://elarasystems.com/) - XR Content Creation
+- [Pixotype Techonologies](https://www.pixotope.com/) - next generation of visual storytelling tools
+- [XR SOLUTIONS](https://xrsolutions.se/) - Specialist for Augmented Reality
+
+
+
+
+### Multi-User Solutions
 - [Sansar](https://www.sansar.com/) - Sansar Homepage
 - [VR Chat](https://hello.vrchat.com/) - VR Chat Homepage
 - [Second Life](https://secondlife.com/) - Official Site
