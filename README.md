@@ -1,6 +1,6 @@
 # awesome-woka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An independent, curated awesome collection about virtual 2D/3D mixed-reality collabspaces &amp; multiverses. AR, VR & XR.
+An independent, curated awesome collection about virtual 2D/3D mixed-reality collabspaces &amp; multiverses. All things AR, VR & XR.
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.
 
