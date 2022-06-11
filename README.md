@@ -56,16 +56,36 @@ Table of Contents
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
 - [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage
 - [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project
-#### More
+#### Engines
+- [Unity]
+- [Unreal]
+##### FOSS
+- [Godot](https://godotengine.org/) - Free and Opensource Game Engine. [git](https://github.com/godotengine)
+- [Bevy Engine](https://bevyengine.org/) - Simple data-driven game engine built in Rust. [git](https://github.com/bevyengine)
+- [UPBGE](https://upbge.org/#/) - Make your game from start to finish without leaving Blender. [git](https://github.com/upbge)
+
+#### Assets
+- [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets
+- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more
+- [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library
 - [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web
+- [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock
+#### Tools
+- [Blender](https://www.blender.org/) - Free and Open Source 3D Animation & Modelling. [git](https://github.com/blender)
+- [clara.io](https://clara.io/) - Model. Animate. Render. Online.
+- [XRevent Creator](https://xrevent-creator.de/#home) - 3D Tool for Creating VR-Twins of Events
+#### More
 - [OpenVR by Valve](https://en.wikipedia.org/wiki/OpenVR) - API for SteamVR & other Devices (Wikipedia)
 - [Extended Reality](https://en.wikipedia.org/wiki/Extended_reality) - General Definition (Wikipedia)
 - [Aweswome XR Broadcast](https://github.com/florisporro/awesome-xr-broadcast) - Collection of XR Broadcasting  
 
 ### Community
 #### FOSS
-- [khronos.org](https://www.khronos.org/) - Royalty-free open standards
-- [The Khronos Group](https://github.com/KhronosGroup) - Github Organisation
+- [Collabora](https://www.collabora.com/) - A lot of OSS Pojects incl. OpenXR and more.
+- [khronos.org](https://www.khronos.org/) - Royalty-free open standards. [git](https://github.com/KhronosGroup)
+- [Monado](https://monado.dev/) - A free, open source XR runtime, implements OpenXR API. [git](https://gitlab.freedesktop.org/monado/monado)
+- [XR4ALL](https://dev.xr4all.eu) - Development Platform for XR Developer
+- [XR4ALL Apps](https://dev.xr4all.eu/shop/) - XR4ALL Solution Catalogue 
 #### Business-Hubs
 - [xrtoday](https://www.xrtoday.com/) - Newsportal
 - [XR Awards 2022](https://awards.xrtoday.com/2022-winners/) - Awards in different categories
