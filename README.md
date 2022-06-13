@@ -11,8 +11,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 Table of Contents
 =================
 
-
- * [Extended Realtiy (XR) incl\. AR &amp; VR](#extended-realtiy-xr-incl-ar--vr)   
+  * [Extended Realtiy (XR) incl\. AR &amp; VR](#extended-realtiy-xr-incl-ar--vr)
     * [Standards, Defintions &amp; Collections](#standards-defintions--collections)
       * [WebXR](#webxr)
       * [OpenXR](#openxr)
@@ -21,8 +20,15 @@ Table of Contents
       * [FOSS](#foss)
       * [Business\-Hubs](#business-hubs)
       * [Companies](#companies)
-    * [Multi\-User Solutions](#multi-user-solutions)
+    * [Multi\-User AR/VR/XR Solutions](#multi-user-arvrxr-solutions)
       * [Everything Exhibition](#everything-exhibition)
+      * [More](#more-1)
+  * [EAT\-Stack (Engines, Assets &amp; Tools)](#eat-stack-engines-assets--tools)
+    * [Engines](#engines)
+      * [Non\-FOSS](#non-foss)
+      * [FOSS](#foss-1)
+    * [Assets](#assets)
+    * [Tools](#tools)
 * [Workadventure specific](#workadventure-specific)
   * [public worlds](#public-worlds)
     * [Bundesländer:](#bundesl%C3%A4nder)
@@ -47,42 +53,23 @@ Table of Contents
 
 ### Standards, Defintions & Collections
 #### WebXR
-- [WebXR](https://en.wikipedia.org/wiki/WebXR) - WebAPI for AR/VR Devices (Wikipedia)
-- [Immersive Web HP](https://immersive-web.github.io/) - Working Group Homepage
-- [Immersive Web Github](https://github.com/immersive-web) - Working Group Github Organisation
-- [WebXR Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md) - Starter Pad
-- [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models on the web with WebXR Browser Check
+- [WebXR](https://en.wikipedia.org/wiki/WebXR) - WebAPI for AR/VR Devices (Wikipedia).
+- [Immersive Web HP](https://immersive-web.github.io/) - Working Group Homepage.
+- [Immersive Web Github](https://github.com/immersive-web) - Working Group Github Organisation.
+- [WebXR Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md) - Starter Pad.
+- [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models on the web with WebXR Browser Check.
 #### OpenXR
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
 - [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage.
 - [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project.
-#### Engines, Non-FOSS
-- [Unity3D](https://unity.com/) - Platform for real-time content creation (c# / Bolt).
-- [Unreal Engine](https://www.unrealengine.com/en-US/) - Real-time 3D creation tool (C++ / Blueprint).
-##### Enginges, FOSS
-- [Godot](https://godotengine.org/) - Free and Opensource Game Engine. [git](https://github.com/godotengine)
-- [Bevy Engine](https://bevyengine.org/) - Simple data-driven game engine built in Rust. [git](https://github.com/bevyengine)
-- [UPBGE](https://upbge.org/#/) - Make your game from start to finish without leaving Blender. [git](https://github.com/upbge)
-
-#### Assets
-- [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets.
-- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more.
-- [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library.
-- [itch.ui Game Assets](https://itch.io/game-assets) - 2D, 3D, Low poly, Retro, Tilesets, Tools, Fonts, Icons.
-- [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web.
-- [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock.
-- [Unity Asset Store](https://assetstore.unity.com/) - 3D, 2D, Templates, Tools, VFX & more.
-- [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - Collection of (not only) free and fee-based content for Unreal Engine.
-#### Tools
-- [Blender](https://www.blender.org/) - Free and Open Source 3D Animation & Modelling. [git](https://github.com/blender)
-- [clara.io](https://clara.io/) - Model. Animate. Render. Online.
-- [XRevent Creator](https://xrevent-creator.de/#home) - 3D Tool for Creating VR-Twins of Events
 #### More
 - [OpenVR by Valve](https://en.wikipedia.org/wiki/OpenVR) - API for SteamVR & other Devices (Wikipedia)
 - [Extended Reality](https://en.wikipedia.org/wiki/Extended_reality) - General Definition (Wikipedia)
 - [Aweswome XR Broadcast](https://github.com/florisporro/awesome-xr-broadcast) - Collection of XR Broadcasting  
 
+
 ### Community
+
 #### FOSS
 - [Collabora](https://www.collabora.com/) - A lot of OSS Pojects incl. OpenXR and more.
 - [khronos.org](https://www.khronos.org/) - Royalty-free open standards. [git](https://github.com/KhronosGroup)
@@ -99,8 +86,14 @@ Table of Contents
 - [XRchisense](https://xrchisense.de/wp/) - Cross-Reality Platform
 
 
+### Multi-User AR/VR/XR Solutions
 
-### Multi-User Solutions
+#### Everything Exhibition
+- [Everything Exhibition App](https://blinry.github.io/everything-exhibition/#https://en.wikipedia.org/wiki/List%20of%20free-software%20events) - Lowpoly 3D WebVR Generator out of, but not only Wikipedia
+- [Everything Exhibition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
+- [Everything Exhibition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
+
+#### More
 - [Sansar](https://www.sansar.com/) - Sansar Homepage
 - [VR Chat](https://hello.vrchat.com/) - VR Chat Homepage
 - [Second Life](https://secondlife.com/) - Official Site
@@ -109,10 +102,33 @@ Table of Contents
 - [OasisVR on Steam](https://store.steampowered.com/app/1163130/Oasis_VR/?l=german) - Oasis MangaVR
 - [XREvent Generator](https://xrchisense.de/wp/xrevent/) - XR Event Application by XRChisense
 
-#### Everything Exhibition
-- [Everything Exhibition App](https://blinry.github.io/everything-exhibition/#https://en.wikipedia.org/wiki/List%20of%20free-software%20events) - Lowpoly 3D WebVR Generator out of, but not only Wikipedia
-- [Everything Exhibition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
-- [Everything Exhibition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
+## EAT-Stack (Engines, Assets & Tools)
+
+### Engines
+
+#### Non-FOSS
+- [Unity3D](https://unity.com/) - Platform for real-time content creation (c# / Bolt).
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Real-time 3D creation tool (C++ / Blueprint).
+#### FOSS
+- [Godot](https://godotengine.org/) - Free and Opensource Game Engine. [git](https://github.com/godotengine)
+- [Bevy Engine](https://bevyengine.org/) - Simple data-driven game engine built in Rust. [git](https://github.com/bevyengine)
+- [UPBGE](https://upbge.org/#/) - Make your game from start to finish without leaving Blender. [git](https://github.com/upbge)
+
+### Assets
+- [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets.
+- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more.
+- [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library.
+- [itch.ui Game Assets](https://itch.io/game-assets) - 2D, 3D, Low poly, Retro, Tilesets, Tools, Fonts, Icons.
+- [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web.
+- [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock.
+- [Unity Asset Store](https://assetstore.unity.com/) - 3D, 2D, Templates, Tools, VFX & more.
+- [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - Collection of (not only) free and fee-based content for Unreal Engine.
+
+### Tools
+- [Blender](https://www.blender.org/) - Free and Open Source 3D Animation & Modelling. [git](https://github.com/blender)
+- [clara.io](https://clara.io/) - Model. Animate. Render. Online.
+- [XRevent Creator](https://xrevent-creator.de/#home) - 3D Tool for Creating VR-Twins of Events
+
 
 ## Workadventure specific
 
