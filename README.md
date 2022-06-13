@@ -54,23 +54,25 @@ Table of Contents
 - [Modelviewer](https://modelviewer.dev/) - Interactive 3D Models on the web with WebXR Browser Check
 #### OpenXR
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
-- [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage
-- [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project
+- [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage.
+- [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project.
 #### Engines
-- [Unity]
-- [Unreal]
+- [Unity3D](https://unity.com/) - Platform for real-time content creation (c# / Bolt).
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Real-time 3D creation tool (C++ / Blueprint).
 ##### FOSS
 - [Godot](https://godotengine.org/) - Free and Opensource Game Engine. [git](https://github.com/godotengine)
 - [Bevy Engine](https://bevyengine.org/) - Simple data-driven game engine built in Rust. [git](https://github.com/bevyengine)
 - [UPBGE](https://upbge.org/#/) - Make your game from start to finish without leaving Blender. [git](https://github.com/upbge)
 
 #### Assets
-- [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets
-- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more
-- [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library
-- [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web
-- [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock
-- [Unity Asset Store](https://assetstore.unity.com/) - 3D, 2D, Templates, Tools, VFX & more
+- [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets.
+- [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more.
+- [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library.
+- [itch.ui Game Assets](https://itch.io/game-assets) - 2D, 3D, Low poly, Retro, Tilesets, Tools, Fonts, Icons.
+- [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web.
+- [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock.
+- [Unity Asset Store](https://assetstore.unity.com/) - 3D, 2D, Templates, Tools, VFX & more.
+- [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - Collection of (not only) free and fee-based content for Unreal Engine.
 #### Tools
 - [Blender](https://www.blender.org/) - Free and Open Source 3D Animation & Modelling. [git](https://github.com/blender)
 - [clara.io](https://clara.io/) - Model. Animate. Render. Online.
@@ -94,7 +96,7 @@ Table of Contents
 - [elarasystems](https://elarasystems.com/) - XR Content Creation
 - [Pixotype Techonologies](https://www.pixotope.com/) - next generation of visual storytelling tools
 - [XR SOLUTIONS](https://xrsolutions.se/) - Specialist for Augmented Reality
-
+- [XRchisense](https://xrchisense.de/wp/) - Cross-Reality Platform
 
 
 
