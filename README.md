@@ -118,7 +118,7 @@ Table of Contents
 - [cgtrader](https://www.cgtrader.com/) - Content Store for 3D Assets.
 - [Godot Asset Library](https://godotengine.org/asset-library/asset) - Tools, Shaders, Scripts, Materials, Templates & more.
 - [Poly Haven](https://polyhaven.com/) - The Public 3D Asset Library.
-- [itch.ui Game Assets](https://itch.io/game-assets) - 2D, 3D, Low poly, Retro, Tilesets, Tools, Fonts, Icons.
+- [itch.io Game Assets](https://itch.io/game-assets) - 2D, 3D, Low poly, Retro, Tilesets, Tools, Fonts, Icons.
 - [SketchFab](https://sketchfab.com/) - Platform for 3D & AR on the web.
 - [TurboSquid](https://www.turbosquid.com/) - 3D Models for Professionals by shutterstock.
 - [Unity Asset Store](https://assetstore.unity.com/) - 3D, 2D, Templates, Tools, VFX & more.
