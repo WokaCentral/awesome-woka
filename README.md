@@ -56,10 +56,10 @@ Table of Contents
 - [OpenXR](https://en.wikipedia.org/wiki/OpenXR) - Standard for accessing VR & AR platforms for solving XR Fragmentation (Wikipedia)
 - [Khrons.org/openxr](https://www.khronos.org/openxr/) - OpenXR Homepage.
 - [OpenXR-SDK-Source](https://github.com/KhronosGroup/OpenXR-SDK-Source) - SDK & API Upstream Project.
-#### Engines
+#### Engines, Non-FOSS
 - [Unity3D](https://unity.com/) - Platform for real-time content creation (c# / Bolt).
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - Real-time 3D creation tool (C++ / Blueprint).
-##### FOSS
+##### Enginges, FOSS
 - [Godot](https://godotengine.org/) - Free and Opensource Game Engine. [git](https://github.com/godotengine)
 - [Bevy Engine](https://bevyengine.org/) - Simple data-driven game engine built in Rust. [git](https://github.com/bevyengine)
 - [UPBGE](https://upbge.org/#/) - Make your game from start to finish without leaving Blender. [git](https://github.com/upbge)
