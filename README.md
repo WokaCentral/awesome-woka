@@ -133,6 +133,7 @@ Table of Contents
 ## Workadventure specific
 
 ### public worlds
+- [Freiland Potsdam](https://2d.freiland-potsdam.de/) - Schöne große Welt vom Chaostreff Potsdam
 - [divocbb3](https://party.tabascoeye.de/_/global/raw.githubusercontent.com/c0c0bird/bridging-bubbles/main/main_open.json) - Fanbase World for divocbb3
 - [cyberyoga](https://play.kraut.world/_/global/moorhexa.github.io/club.cyberyoga.org/maps/club/map.json) - A lot of toilets^^
 - [Chaospott](https://git.chaospott.de/Workadventure/workadventure) - Hackspace aus Essen
