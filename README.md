@@ -93,11 +93,11 @@ Table of Contents
 - [Everything Exhibition Github](https://github.com/blinry/everything-exhibition) - Upstream Repo
 - [Everything Exhibition PF](https://prototypefund.de/project/the-everything-exhibition/) - Prototype Fund Blogpost
 
-#### More
+#### SocialVR
+- [Active Worlds](https://www.activeworlds.com/) - Active Worlds, Home of the 3D Internet
 - [Sansar](https://www.sansar.com/) - Sansar Homepage
 - [VR Chat](https://hello.vrchat.com/) - VR Chat Homepage
 - [Second Life](https://secondlife.com/) - Official Site
-- [Active Worlds](https://www.activeworlds.com/) - Active Worlds, Home of the 3D Internet
 - [Vircadia](https://vircadia.com/) - Vircadia Homepage
 - [OasisVR on Steam](https://store.steampowered.com/app/1163130/Oasis_VR/?l=german) - Oasis MangaVR
 - [XREvent Generator](https://xrchisense.de/wp/xrevent/) - XR Event Application by XRChisense
